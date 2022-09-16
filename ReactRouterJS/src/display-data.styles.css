@@ -1,0 +1,13 @@
+.bordureTab {
+  border: 7px solid gray;
+}
+td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: red;
+  background-color: rgb(172, 172, 173);
+  width: 9%;
+  
+}
+ 
